@@ -1,4 +1,4 @@
-# AI-Powered Tsunami Warning Detection System
+# An Accessibility ToolKit for Visually Impaired Developers | Won 1st Place at Vanderbilt Annual Global Good Hackathon 2024
 
 ## Code4Good Extension
 
